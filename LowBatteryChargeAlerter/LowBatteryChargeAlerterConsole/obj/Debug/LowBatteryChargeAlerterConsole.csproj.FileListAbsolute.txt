@@ -1,0 +1,7 @@
+C:\Users\sorellana\source\repos\LowBatteryChargeAlerter\LowBatteryChargeAlerterConsole\obj\Debug\LowBatteryChargeAlerterConsole.csprojAssemblyReference.cache
+C:\Users\sorellana\source\repos\LowBatteryChargeAlerter\LowBatteryChargeAlerterConsole\obj\Debug\LowBatteryChargeAlerterConsole.csproj.CoreCompileInputs.cache
+C:\Users\sorellana\source\repos\LowBatteryChargeAlerter\LowBatteryChargeAlerterConsole\bin\Debug\LowBatteryChargeAlerterConsole.exe.config
+C:\Users\sorellana\source\repos\LowBatteryChargeAlerter\LowBatteryChargeAlerterConsole\bin\Debug\LowBatteryChargeAlerterConsole.exe
+C:\Users\sorellana\source\repos\LowBatteryChargeAlerter\LowBatteryChargeAlerterConsole\bin\Debug\LowBatteryChargeAlerterConsole.pdb
+C:\Users\sorellana\source\repos\LowBatteryChargeAlerter\LowBatteryChargeAlerterConsole\obj\Debug\LowBatteryChargeAlerterConsole.exe
+C:\Users\sorellana\source\repos\LowBatteryChargeAlerter\LowBatteryChargeAlerterConsole\obj\Debug\LowBatteryChargeAlerterConsole.pdb
