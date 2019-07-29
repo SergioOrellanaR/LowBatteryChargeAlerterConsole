@@ -23,7 +23,7 @@ namespace LowBatteryChargeAlerterConsole
             aTimer.Enabled = true;
             Console.WriteLine("Ejecución iniciada, cada {0} minutos recibirá una alerta si la batería del equipo " +
                 "se encuentra bajo 20% y desconectado de la corriente de energia", aTimer.Interval / 60000);
-            Console.WriteLine("Press \'q\' y Enter en cualquier momento para salir.");
+            Console.WriteLine("Presione \'q\' y posteriormente Enter en cualquier momento para salir.");
             while (Console.Read() != 'q') ;
             aTimer.Dispose();
         }
